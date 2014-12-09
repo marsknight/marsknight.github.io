@@ -1,10 +1,10 @@
 ---
 layout: post
-title: You're up and running!
+title: "You're up and running!"
+published: true
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below :point_down:).
+Welcome to my personal static website. Nothing kinky there, just some work-related stuff, a few fun projects and some thoughts presented as an inconsistent blog.
+Have fun sneaking around!
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
-
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+PS: This site is under construction, of course.
